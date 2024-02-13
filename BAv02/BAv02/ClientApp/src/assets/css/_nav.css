@@ -1,0 +1,8 @@
+.navNotification {
+    width: 15px;
+    height: 15px;
+    border-radius: 16px;
+    margin-left: 5px;
+    position: absolute;
+    float: none !important;
+}

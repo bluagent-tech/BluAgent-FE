@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Smooth sailing, no events!"
+  },
+  {
+    "id": 100,
+    "name": "Crash"
+  },
+  {
+    "id": 101,
+    "name": "Harsh Acceleration"
+  },
+  {
+    "id": 102,
+    "name": "Harsh Braking"
+  },
+  {
+    "id": 105,
+    "name": "Harsh Turn"
+  },
+  {
+    "id": 106,
+    "name": "Driver Initiated"
+  },
+  {
+    "id": 108,
+    "name": "Tailgating"
+  },
+  {
+    "id": 109,
+    "name": "Collision Risk"
+  },
+  {
+    "id": 110,
+    "name": "Reckless Driving"
+  },
+  {
+    "id": 111,
+    "name": "Stop Sign Violation"
+  },
+  {
+    "id": 112,
+    "name": "Red Light Violation"
+  },
+  {
+    "id": 123,
+    "name": "Undefined"
+  },
+  {
+    "id": 1000,
+    "name": "On Demand Image"
+  },
+  {
+    "id": 1001,
+    "name": "On Demand Video"
+  }
+]

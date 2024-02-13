@@ -1,0 +1,39 @@
+.formGroupFilter {
+    margin-bottom: 0px;
+}
+
+.imgDriversImg {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+}
+
+.colDT {
+    margin-top: 35px;
+}
+
+.colAddDriver {
+    padding-left: 10px;
+}
+
+.colExportDrivers {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.colUploadDT {
+    display: none;
+}
+
+
+@media screen and (max-width: 1492px) and (min-width: 838px) {
+    .colFilter {
+        max-width: 590px;
+    }
+}
+
+@media screen and (max-width: 837px) {
+    .colFilter {
+        max-width: 252px;
+    }
+}

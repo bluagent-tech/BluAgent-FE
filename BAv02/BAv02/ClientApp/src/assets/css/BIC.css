@@ -1,0 +1,91 @@
+.Alert {
+    /* backgroundColor: "#dff0fe",
+        borderLeft: "4px solid #dff0fe",
+        borderColor: "#4788c7",
+        color: "#4788c7",
+        padding: "15px 20px",
+        width: "800px" */
+        background-color: #dff0fe;
+        border-left:4px solid #dff0fe ;
+        border-color: #4788c7;
+        color: #4788c7;
+        padding: 15px 20px;
+        width:50px;
+        transition: width 5s;
+        height: 72px;
+        vertical-align:bottom;
+        /* content: ; */
+
+}
+
+/* .Alert::after {
+    cont
+} */
+
+.Alert:hover {
+    content: "Notice: Please Upload Required Inspector Certificates";
+    width: 1200px;
+    /* transition: cubic-bezier(0.6, 0.04, 0.98, 0.335); */
+    /* height: 72px; */
+    transition: width 5s;
+    transition-property: width;
+    transition-delay: 1s;
+    animation: fadein 10s;
+}
+/* .Alert:hover p {
+    transition: 5s;
+    transition-property: width;
+    transition-delay: 1s;
+    position: relative;
+    visibility: visible;
+    animation: fadein 10s;
+} */
+
+/* .Alert: */
+
+/* .Alert::after {
+
+} */
+
+/* .Alert p {
+    position: absolute;
+    visibility: hidden;
+} */
+
+/* .Alert p:hover::before {
+    content: 'content that needs a delay';
+     margin-top: 25px;
+    font-size: 21px;
+    text-align: center;
+    animation: fadein 4s;
+} */
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+  }
+  
+  div:hover {
+    width: 300px;
+  } */
+
+/* .second_text{
+    font-size: 30px;
+    color: darkcyan;
+    display: block;
+    opacity:0;
+    animation:second_text_anim 3s linear 4s infinite;
+    
+  
+  } */

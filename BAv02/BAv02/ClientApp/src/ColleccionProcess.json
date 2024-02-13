@@ -1,0 +1,54 @@
+[
+        {
+            "text": "Verify your identity using a current valid photo ID, such as driver\u2019s license, passport, employer issued picture ID, etc."
+        },
+        {
+            "text": "Create a secure collection site by: - Restricting access to the site to only those being tested. - Securing all water sources and placing blue dye in any standing water. - Removing or securing all cleaning products/fluids at the collection site."
+        },
+        {
+            "text":"Afford you privacy to provide a urine specimen. - Exceptions to the rule generally surround issues of attempted adulteration or substitution of a specimen or any situation where general questions of validity arise, like an unusual temperature."
+        },
+        {
+            "text":"Ask you to remove any unnecessary garments and empty your pockets \u0028you may retain your wallet\u0029."
+        },
+        {
+            "text": "Instruct you to wash and dry your hands."
+        },
+        {
+            "text": "Select or have you select a sealed collection kit and open it in your presence."
+        },
+        {
+            "text":"Request you to provide a specimen (a minimum of 45 mL) of your urine into a collection container."
+        },
+        {
+            "text": "Check the temperature and color of the urine."
+        },
+        {
+            "text": "In your presence, pour the urine into two separate bottles (A or primary and B or split), seal them with tamper-evident tape, and then ask you to sign the seals after they have been placed on the bottles. Remember Neither you nor the collector should let the specimen out of your sight until it has been poured into two separate bottles and sealed."
+        },
+        {
+            "text": "Ask you to provide your name, date of birth, and daytime and evening phone numbers on the Medical Review Officer Copy (Copy #2) of the Federal Drug Testing Custody and Control Form (CCF). - This is so the Medical Review Officer (MRO) can contact you directly if there are any questions about your test."
+        },
+        {
+            "text": "Complete necessary documentation on the “Test Facility Copy” (Copy #1) of the CCF to demonstrate the chain of custody (i.e. handling) of the specimen."},
+        {
+            "text":"Give you the Employee Copy (Copy # 5) of the CCF and may suggest you list any prescription and over-the-counter medications you may be taking on the back of your copy of the CCF (this may serve as a reminder for you in the event the MRO calls you to discuss your test results)."},
+        {
+            "text": "Package and ship both sealed bottles and completed CCF to a U.S. Health and Human Services (HHS) certified testing laboratory as quickly as possible. If you are unable to provide 45 mL of urine on the first attempt, the time will be noted, and you will be:",
+            "options": [
+                "Required to remain in the testing area under the supervision of the collection site personnel, their supervisor, or a representative from your company, - Leaving the testing area without authorization may be considered a refusal to test",
+            
+                "Urged to drink up to 40 oz. of fluid, distributed reasonably over a period of up to three hours, 8 What Employees Need To Know About DOT Drug & Alcohol Testing ",
+            
+                "Asked to provide a new specimen (into a new collection container).",
+            
+                "If you do not provide a sufficient specimen within three hours, you must obtain a medical evaluation9 within five days to determine if there is an acceptable medical reason for not being able to provide a specimen. If it is determined that there is no legitimate physiological or pre-existing psychological reason for not providing a urine specimen, it will be considered a refusal to test.",
+                
+                "Urged to drink up to 40 oz. of fluid, distributed reasonably over a period of up to three hours, 8 What Employees Need To Know About DOT Drug & Alcohol Testing.",
+                
+                "Asked to provide a new specimen (into a new collection container).",
+                
+                "If you do not provide a sufficient specimen within three hours, you must obtain a medical evaluation9 within five days to determine if there is an acceptable medical reason for not being able to provide a specimen. If it is determined that there is no legitimate physiological or pre-existing psychological reason for not providing a urine specimen, it will be considered a refusal to test."          
+            ]
+        }
+]

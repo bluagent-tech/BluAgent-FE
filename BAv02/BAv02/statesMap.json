@@ -1,0 +1,578 @@
+[
+    {
+      "Id": "1",
+      "Name": "AK",
+      "IdCountry": "1",
+      "Description": "Alaska"
+    },
+    {
+      "Id": "2",
+      "Name": "AL",
+      "IdCountry": "1",
+      "Description": "Alabama"
+    },
+    {
+      "Id": "3",
+      "Name": "AR",
+      "IdCountry": "1",
+      "Description": "Arkansas"
+    },
+    {
+      "Id": "4",
+      "Name": "AZ",
+      "IdCountry": "1",
+      "Description": "Arizona"
+    },
+    {
+      "Id": "5",
+      "Name": "CA",
+      "IdCountry": "1",
+      "Description": "California"
+    },
+    {
+      "Id": "6",
+      "Name": "CO",
+      "IdCountry": "1",
+      "Description": "Colorado"
+    },
+    {
+      "Id": "7",
+      "Name": "CT",
+      "IdCountry": "1",
+      "Description": "Connecticut"
+    },
+    {
+      "Id": "8",
+      "Name": "DC",
+      "IdCountry": "1",
+      "Description": "District of Columbia"
+    },
+    {
+      "Id": "9",
+      "Name": "DE",
+      "IdCountry": "1",
+      "Description": "Delaware"
+    },
+    {
+      "Id": "10",
+      "Name": "FL",
+      "IdCountry": "1",
+      "Description": "Florida"
+    },
+    {
+      "Id": "11",
+      "Name": "GA",
+      "IdCountry": "1",
+      "Description": "Georgia"
+    },
+    {
+      "Id": "12",
+      "Name": "HI",
+      "IdCountry": "1",
+      "Description": "Hawaii"
+    },
+    {
+      "Id": "13",
+      "Name": "IA",
+      "IdCountry": "1",
+      "Description": "Iowa"
+    },
+    {
+      "Id": "14",
+      "Name": "ID",
+      "IdCountry": "1",
+      "Description": "Idaho"
+    },
+    {
+      "Id": "15",
+      "Name": "IL",
+      "IdCountry": "1",
+      "Description": "Illinois"
+    },
+    {
+      "Id": "16",
+      "Name": "IN",
+      "IdCountry": "1",
+      "Description": "Indiana"
+    },
+    {
+      "Id": "17",
+      "Name": "KS",
+      "IdCountry": "1",
+      "Description": "Kansas"
+    },
+    {
+      "Id": "18",
+      "Name": "KY",
+      "IdCountry": "1",
+      "Description": "Kentucky"
+    },
+    {
+      "Id": "19",
+      "Name": "LA",
+      "IdCountry": "1",
+      "Description": "Louisiana"
+    },
+    {
+      "Id": "20",
+      "Name": "MA",
+      "IdCountry": "1",
+      "Description": "Massachusetts"
+    },
+    {
+      "Id": "21",
+      "Name": "MD",
+      "IdCountry": "1",
+      "Description": "Maryland"
+    },
+    {
+      "Id": "22",
+      "Name": "ME",
+      "IdCountry": "1",
+      "Description": "Maine"
+    },
+    {
+      "Id": "23",
+      "Name": "MI",
+      "IdCountry": "1",
+      "Description": "Michigan"
+    },
+    {
+      "Id": "24",
+      "Name": "MN",
+      "IdCountry": "1",
+      "Description": "Minnesota"
+    },
+    {
+      "Id": "25",
+      "Name": "MO",
+      "IdCountry": "1",
+      "Description": "Missouri"
+    },
+    {
+      "Id": "26",
+      "Name": "MS",
+      "IdCountry": "1",
+      "Description": "Mississippi"
+    },
+    {
+      "Id": "27",
+      "Name": "MT",
+      "IdCountry": "1",
+      "Description": "Montana"
+    },
+    {
+      "Id": "28",
+      "Name": "NC",
+      "IdCountry": "1",
+      "Description": "North Carolina"
+    },
+    {
+      "Id": "29",
+      "Name": "ND",
+      "IdCountry": "1",
+      "Description": "North Dakota"
+    },
+    {
+      "Id": "30",
+      "Name": "NE",
+      "IdCountry": "1",
+      "Description": "Nebraska"
+    },
+    {
+      "Id": "31",
+      "Name": "NH",
+      "IdCountry": "1",
+      "Description": "New Hampshire"
+    },
+    {
+      "Id": "32",
+      "Name": "NJ",
+      "IdCountry": "1",
+      "Description": "New Jersey"
+    },
+    {
+      "Id": "33",
+      "Name": "NM",
+      "IdCountry": "1",
+      "Description": "New Mexico"
+    },
+    {
+      "Id": "34",
+      "Name": "NV",
+      "IdCountry": "1",
+      "Description": "Nevada"
+    },
+    {
+      "Id": "35",
+      "Name": "NY",
+      "IdCountry": "1",
+      "Description": "New York"
+    },
+    {
+      "Id": "36",
+      "Name": "OH",
+      "IdCountry": "1",
+      "Description": "Ohio"
+    },
+    {
+      "Id": "37",
+      "Name": "OK",
+      "IdCountry": "1",
+      "Description": "Oklahoma"
+    },
+    {
+      "Id": "38",
+      "Name": "OR",
+      "IdCountry": "1",
+      "Description": "Oregon"
+    },
+    {
+      "Id": "39",
+      "Name": "PA",
+      "IdCountry": "1",
+      "Description": "Pennsylvania"
+    },
+    {
+      "Id": "40",
+      "Name": "RI",
+      "IdCountry": "1",
+      "Description": "Rhode Island"
+    },
+    {
+      "Id": "41",
+      "Name": "SC",
+      "IdCountry": "1",
+      "Description": "South Carolina"
+    },
+    {
+      "Id": "42",
+      "Name": "SD",
+      "IdCountry": "1",
+      "Description": "South Dakota"
+    },
+    {
+      "Id": "43",
+      "Name": "TN",
+      "IdCountry": "1",
+      "Description": "Tennessee"
+    },
+    {
+      "Id": "44",
+      "Name": "TX",
+      "IdCountry": "1",
+      "Description": "Texas"
+    },
+    {
+      "Id": "45",
+      "Name": "UT",
+      "IdCountry": "1",
+      "Description": "Utah"
+    },
+    {
+      "Id": "46",
+      "Name": "VA",
+      "IdCountry": "1",
+      "Description": "Virginia"
+    },
+    {
+      "Id": "47",
+      "Name": "VT",
+      "IdCountry": "1",
+      "Description": "Vermont"
+    },
+    {
+      "Id": "48",
+      "Name": "WA",
+      "IdCountry": "1",
+      "Description": "Washington"
+    },
+    {
+      "Id": "49",
+      "Name": "WI",
+      "IdCountry": "1",
+      "Description": "Wisconsin"
+    },
+    {
+      "Id": "50",
+      "Name": "WV",
+      "IdCountry": "1",
+      "Description": "West Virginia"
+    },
+    {
+      "Id": "51",
+      "Name": "WY",
+      "IdCountry": "1",
+      "Description": "Wyoming"
+    },
+    {
+      "Id": "52",
+      "Name": "AGS",
+      "IdCountry": "2",
+      "Description": "Aguascalientes"
+    },
+    {
+      "Id": "53",
+      "Name": "BC",
+      "IdCountry": "2",
+      "Description": "Baja California"
+    },
+    {
+      "Id": "54",
+      "Name": "BCS",
+      "IdCountry": "2",
+      "Description": "Baja California Sur"
+    },
+    {
+      "Id": "55",
+      "Name": "CAMP",
+      "IdCountry": "2",
+      "Description": "Campeche"
+    },
+    {
+      "Id": "56",
+      "Name": "COAH",
+      "IdCountry": "2",
+      "Description": "Coahuila de Zaragoza"
+    },
+    {
+      "Id": "57",
+      "Name": "COL",
+      "IdCountry": "2",
+      "Description": "Colima"
+    },
+    {
+      "Id": "58",
+      "Name": "CHIS",
+      "IdCountry": "2",
+      "Description": "Chiapas"
+    },
+    {
+      "Id": "59",
+      "Name": "CHIH",
+      "IdCountry": "2",
+      "Description": "Chihuahua"
+    },
+    {
+      "Id": "60",
+      "Name": "DF",
+      "IdCountry": "2",
+      "Description": "Distrito Federal"
+    },
+    {
+      "Id": "61",
+      "Name": "DGO",
+      "IdCountry": "2",
+      "Description": "Durango"
+    },
+    {
+      "Id": "62",
+      "Name": "GTO",
+      "IdCountry": "2",
+      "Description": "Guanajuato"
+    },
+    {
+      "Id": "63",
+      "Name": "GRO",
+      "IdCountry": "2",
+      "Description": "Guerrero"
+    },
+    {
+      "Id": "64",
+      "Name": "HGO",
+      "IdCountry": "2",
+      "Description": "Hidalgo"
+    },
+    {
+      "Id": "65",
+      "Name": "JAL",
+      "IdCountry": "2",
+      "Description": "Jalisco"
+    },
+    {
+      "Id": "66",
+      "Name": "MEX",
+      "IdCountry": "2",
+      "Description": "México"
+    },
+    {
+      "Id": "67",
+      "Name": "MICH",
+      "IdCountry": "2",
+      "Description": "Michoacán de Ocampo"
+    },
+    {
+      "Id": "68",
+      "Name": "MOR",
+      "IdCountry": "2",
+      "Description": "Morelos"
+    },
+    {
+      "Id": "69",
+      "Name": "NAY",
+      "IdCountry": "2",
+      "Description": "Nayarit"
+    },
+    {
+      "Id": "70",
+      "Name": "NL",
+      "IdCountry": "2",
+      "Description": "Nuevo León"
+    },
+    {
+      "Id": "71",
+      "Name": "OAX",
+      "IdCountry": "2",
+      "Description": "Oaxaca"
+    },
+    {
+      "Id": "72",
+      "Name": "PUE",
+      "IdCountry": "2",
+      "Description": "Puebla"
+    },
+    {
+      "Id": "73",
+      "Name": "QRO",
+      "IdCountry": "2",
+      "Description": "Querétaro"
+    },
+    {
+      "Id": "74",
+      "Name": "Q. ROO",
+      "IdCountry": "2",
+      "Description": "Quintana Roo"
+    },
+    {
+      "Id": "75",
+      "Name": "SLP",
+      "IdCountry": "2",
+      "Description": "San Luis Potosí"
+    },
+    {
+      "Id": "76",
+      "Name": "SIN",
+      "IdCountry": "2",
+      "Description": "Sinaloa"
+    },
+    {
+      "Id": "77",
+      "Name": "SON",
+      "IdCountry": "2",
+      "Description": "Sonora"
+    },
+    {
+      "Id": "78",
+      "Name": "TAB",
+      "IdCountry": "2",
+      "Description": "Tabasco"
+    },
+    {
+      "Id": "79",
+      "Name": "TAMPS",
+      "IdCountry": "2",
+      "Description": "Tamaulipas"
+    },
+    {
+      "Id": "80",
+      "Name": "TLAX",
+      "IdCountry": "2",
+      "Description": "Tlaxcala"
+    },
+    {
+      "Id": "81",
+      "Name": "VER",
+      "IdCountry": "2",
+      "Description": "Veracruz de Ignacio de la Llave"
+    },
+    {
+      "Id": "82",
+      "Name": "YUC",
+      "IdCountry": "2",
+      "Description": "Yucatán"
+    },
+    {
+      "Id": "83",
+      "Name": "ZAC",
+      "IdCountry": "2",
+      "Description": "Zacatecas"
+    },
+    {
+      "Id": "84",
+      "Name": "A",
+      "IdCountry": "10002",
+      "Description": "Alberta"
+    },
+    {
+      "Id": "85",
+      "Name": "BC",
+      "IdCountry": "10002",
+      "Description": "British Columbia"
+    },
+    {
+      "Id": "86",
+      "Name": "M",
+      "IdCountry": "10002",
+      "Description": "Manitoba"
+    },
+    {
+      "Id": "87",
+      "Name": "NB",
+      "IdCountry": "10002",
+      "Description": "New Brunswick"
+    },
+    {
+      "Id": "88",
+      "Name": "N&L",
+      "IdCountry": "10002",
+      "Description": "Newfoundland and Labrador"
+    },
+    {
+      "Id": "89",
+      "Name": "NT",
+      "IdCountry": "10002",
+      "Description": "Northwest Territories"
+    },
+    {
+      "Id": "90",
+      "Name": "NS",
+      "IdCountry": "10002",
+      "Description": "Nova Scotia"
+    },
+    {
+      "Id": "91",
+      "Name": "N",
+      "IdCountry": "10002",
+      "Description": "Nunavut"
+    },
+    {
+      "Id": "92",
+      "Name": "O",
+      "IdCountry": "10002",
+      "Description": "Ontario"
+    },
+    {
+      "Id": "93",
+      "Name": "P",
+      "IdCountry": "10002",
+      "Description": "Prince Edward Island"
+    },
+    {
+      "Id": "94",
+      "Name": "Q",
+      "IdCountry": "10002",
+      "Description": "Québec"
+    },
+    {
+      "Id": "95",
+      "Name": "S",
+      "IdCountry": "10002",
+      "Description": "Saskatchewan"
+    },
+    {
+      "Id": "96",
+      "Name": "Y",
+      "IdCountry": "10002",
+      "Description": "Yukon"
+    }
+  ]

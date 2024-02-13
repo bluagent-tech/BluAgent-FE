@@ -1,0 +1,40 @@
+table tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+.tableAgreement {
+    width: 35%
+}
+
+.tdAgreement {
+    text-align: center;
+    padding: 8px;
+    font-size: 13px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.tableCompany {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.thAgreement {
+    text-align: center;
+    padding: 8px;
+    font-size: 13px;
+    background-color: #00519D;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    color: white;
+}
+
+.liAgreement {
+    font-size: 13px;
+}
+
+.signatureAgreement {
+    padding: 10px;
+    border-bottom: 2px solid #000000;
+    width: 200px;
+}

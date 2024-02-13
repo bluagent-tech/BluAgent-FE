@@ -1,0 +1,72 @@
+:root {
+    --white: #ffffff;
+    --white-gray: #dddddd;
+    --gray: #a3aeb8;
+    --light-gray: #dedede;
+    --lighter-gray: #ededf2;
+    --dark-gray: #576271;
+    --green: #4ad991;
+    --yellow: #ff9b1c;
+    --orange: #ff9d3b;
+    --red: #e93535;
+    --blue: #98ccfd;
+    --light-blue: #b6dcfe;
+    --royal-blue: #3b86ff;
+    --dark-blue: #4788c7;
+    --darker-blue: #43425d;
+    --stripe-input: #e4e7ea;
+    --sky-blue: #99c0ff;
+    --blue-gray: #576271;
+}
+
+.Header {
+  position: fixed;
+  bottom: 65px;
+  right: 10px;
+  width: 50px;
+  color: #fff;
+  text-align: center;
+  padding-top: 12px;
+  background-color: var(--royal-blue);
+  box-shadow: #8a8a8a 1px 1px 3px 0px;
+  bottom: 15px;
+  right: 15px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 18pt;
+}
+
+.buttonLogo {
+    position: absolute;
+    border-radius: 50px;
+    font-size: 30pt;
+    font-weight: bold;
+    top: -110px;
+    width: 120px;
+    height: 120px;
+    transition-duration: 0.4s;
+}
+
+.buttonLogo:hover {
+    color: #0088ff;
+    border-style: dotted;
+}
+
+.fileContainer2 {
+    margin: 4px;
+    height: 0px;
+    background: #fff;
+    position: relative;
+    display: -ms-flexbox;
+    padding: 0px 0px;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}

@@ -1,0 +1,60 @@
+{
+    "vehicles":[
+        {
+            "id": 1,
+            "type": "vehicle",
+            "code": "393"
+        },
+        {
+            "id": 2,
+            "type": "vehicle",
+            "code": "396"
+        }
+    ],
+    "drivers": [
+        {
+            "id": 1,
+            "type": "driver",
+            "code": "392"
+        },
+        {
+            "id": 2,
+            "type": "driver",
+            "code": "391"
+        },
+        {
+            "id": 3,
+            "type": "driver",
+            "code": "383"
+        },
+        {
+            "id": 4,
+            "type": "driver",
+            "code": "395"
+        }
+    ],
+    "sustances": [
+        {
+            "id": 1,
+            "type": "substances",
+            "code": "382"
+        }
+    ],
+    "hazmat": [
+        {
+            "id": 1,
+            "type": "hazmat",
+            "code": "177"
+        },
+        {
+            "id": 2,
+            "type": "hazmat",
+            "code": "107"
+        },
+        {
+            "id": 3,
+            "type": "hazmat",
+            "code": "172"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+:root {
+    --white: #ffffff;
+    --white-gray: #dddddd;
+    --gray: #a3aeb8;
+    --light-gray: #dedede;
+    --lighter-gray: #ededf2;
+    --dark-gray: #576271;
+    --green: #4ad991;
+    --yellow: #ff9b1c;
+    --orange: #ff9d3b;
+    --red: #e93535;
+    --blue: #98ccfd;
+    --light-blue: #b6dcfe;
+    --royal-blue: #3b86ff;
+    --dark-blue: #4788c7;
+    --darker-blue: #43425d;
+    --stripe-input: #e4e7ea;
+    --sky-blue: #99c0ff;
+    --blue-gray: #576271;
+}
+
+.labelError {
+    color: #ff0000;
+    margin-left: 33%;
+    font-size: 18px;
+}
+
+
+.message {
+    color: green;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.error {
+    color: #ff0000;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+.wrapper {
+    position: relative;
+    width: 320px;
+    height: 180px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.signaturepad {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 320px;
+    height: 180px;
+    border: 1px solid #000000;
+}
+
+.upload {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.pdfFormGroup {
+    margin-bottom: .1px;
+    border-width: .1px;
+    border-style: solid;
+    border-color: rgb(230, 230, 230);
+    -webkit-border-image: initial;
+    -o-border-image: initial;
+    border-image: initial;
+    border-radius: 5px;
+    padding: 1px 15px 0px 10px;
+    display: block;
+}
+
+.informativeParagraph {
+    font-size: 8pt;
+}
+
+.pdfSpan {
+    border-left-style: none;
+    border-top-style: none;
+    padding-right: 5px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 8pt;
+    margin-top: .05px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: Montserrat-SemiBold;
+    color: rgb(57, 57, 57);
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.pdfSpan2 {
+    border-left-style: none;
+    border-top-style: none;
+    padding-right: 5px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 6pt;
+    margin-top: .05px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: Montserrat-SemiBold;
+    color: rgb(57, 57, 57);
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.pdfInput {
+    text-transform: uppercase;
+    font-family: Montserrat-SemiBold;
+    border-style: none;
+    margin-top: .01px;
+    background: rgba(0, 0, 0, 0);
+    height: 20px;
+    font-size: 6pt;
+    margin-bottom: 0px;
+    width: 100% !important;
+}
+
+.pdfRow {
+    margin-top: 10px;
+}
+
+
+
+/*Menu*/
+.sidebar {
+    background: #1493a7;
+}
+
+.sidebar .nav-link.active {
+    background: #1493a7;
+}
+
+.sidebar .nav-link.active .nav-icon {
+    color: #c8ced3;
+}
+
+.sidebar .nav-link:hover {
+    background: red;
+    color: red;
+}
+
+.sidebar .nav-link .nav-icon {
+    color: #c8ced3;
+}
+
+
+/*******************
+    Form DVIR
+*******************/
+span.cls_002{font-family:Arial,serif;font-size:18.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_002{font-family:Arial,serif;font-size:18.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_003{font-family:Arial,serif;font-size:8.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_003{font-family:Arial,serif;font-size:8.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_004{font-family:Arial,serif;font-size:12.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_004{font-family:Arial,serif;font-size:12.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_005{font-family:Arial,serif;font-size:12.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_005{font-family:Arial,serif;font-size:12.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_006{font-family:Arial,serif;font-size:10.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_006{font-family:Arial,serif;font-size:10.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_007{font-family:Times,serif;font-size:8.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_007{font-family:Times,serif;font-size:8.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_008{font-family:Arial,serif;font-size:10.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_008{font-family:Arial,serif;font-size:10.1px;color:rgb(105,105,105);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_009{font-family:Arial,serif;font-size:10.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_009{font-family:Arial,serif;font-size:10.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_010{font-family:Arial,serif;font-size:14.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_010{font-family:Arial,serif;font-size:14.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_011{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_011{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+
+.logo-form {
+    position: absolute;
+    top: -39px;
+    display: block;
+    height: 34px;
+    width: 22%;
+    left: 154px;
+}
+
+.Collector {
+    border: 1px solid #E1E3E6;
+    border-radius: 1em;
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Collector:hover{
+    border: 1px solid #1493A7;
+    transition: 1s ease;
+}
+
+.Collector img {
+    width: 70px;
+}
+
+.onHoverDiv{
+    cursor: pointer;
+}

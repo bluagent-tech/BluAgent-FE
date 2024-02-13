@@ -1,0 +1,29 @@
+.AlertTextColumn {
+    padding: 0;
+    text-align: left;
+    font-size: x-small;
+  }
+  
+  .AlertIconColumn {
+    padding: 0;
+    text-align: center;
+  }
+  .Alert{
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .imgFile {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .iconImgContainer {
+    height: 30px;
+    width: 30px;
+    margin-left: auto;
+    margin-right: 20px;
+    text-align: center;
+    overflow: hidden;
+  }

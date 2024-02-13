@@ -1,0 +1,16 @@
+.m-signature-pad {
+  background-color: #fff;
+}
+
+.m-signature-pad--body {
+  border: solid 1px;
+}
+
+.m-signature-pad--footer > button {
+  background-color: var(--royal-blue) !important;
+  color: white
+}
+
+.m-signature-pad--footer{
+  margin-top: 5px;
+}

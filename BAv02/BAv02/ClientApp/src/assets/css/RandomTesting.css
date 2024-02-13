@@ -1,0 +1,10 @@
+.borderAlert {
+    border-left: #f86c6b;
+    border-left-width: 4px;
+    border-left-style: solid;
+    background-color: #f8f9fa;
+}
+
+.text-label {
+    font-size: small;
+}

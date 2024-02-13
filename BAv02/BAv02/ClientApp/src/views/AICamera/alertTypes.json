@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Fuel Alert"
+  },
+  {
+    "id": 2,
+    "name": "idle Alert"
+  },
+  {
+    "id": 4,
+    "name": "Low Battery Alert"
+  },
+  {
+    "id": 5,
+    "name": "Maintenance Alert Distance"
+  },
+  {
+    "id": 6,
+    "name": "After Hours Alert"
+  },
+  {
+    "id": 8,
+    "name": "Speed Alert"
+  },
+  {
+    "id": 9,
+    "name": "Stop Alert"
+  },
+  {
+    "id": 10,
+    "name": "Tow Alert"
+  },
+  {
+    "id": 12,
+    "name": "Lost Comm Alert"
+  },
+  {
+    "id": 13,
+    "name": "Lost GPS Alert"
+  },
+  {
+    "id": 14,
+    "name": "Maintenance Alert Engine"
+  },
+  {
+    "id": 21,
+    "name": "Input High Alert"
+  },
+  {
+    "id": 22,
+    "name": "Input Low Alert"
+  },
+  {
+    "id": 23,
+    "name": "Zone Enter Alert"
+  },
+  {
+    "id": 24,
+    "name": "Zone Exit Alert"
+  },
+  {
+    "id": 25,
+    "name": "Power On Alert"
+  },
+  {
+    "id": 26,
+    "name": "Power Off Alert"
+  },
+  {
+    "id": 27,
+    "name": "Installation Alert"
+  },
+  {
+    "id": 28,
+    "name": "Impound Alert"
+  },
+  {
+    "id": 29,
+    "name": "Country Enter Alert"
+  },
+  {
+    "id": 30,
+    "name": "Country Exit Alert"
+  },
+  {
+    "id": 37,
+    "name": "Theft Alert"
+  },
+  {
+    "id": 38,
+    "name": "SOS Alert"
+  },
+  {
+    "id": 40,
+    "name": "Inactivity Alert"
+  },
+  {
+    "id": 41,
+    "name": "Fuel Stop Alert"
+  },
+  {
+    "id": 42,
+    "name": "Incident Alert"
+  },
+  {
+    "id": 43,
+    "name": "Confirmed Incident Alert"
+  },
+  {
+    "id": 44,
+    "name": "Maintenance Alert Calendar"
+  },
+  {
+    "id": 45,
+    "name": "Check Engine Alert"
+  },
+  {
+    "id": 46,
+    "name": "Expiring Devices Alert"
+  },
+  {
+    "id": 100,
+    "name": "Crash Alert Camera"
+  },
+  {
+    "id": 101,
+    "name": "Harsh Acceleration Alert Camera"
+  },
+  {
+    "id": 102,
+    "name": "Harsh Braking Alert Camera"
+  },
+  {
+    "id": 103,
+    "name": "Harsh Left Alert Camera"
+  },
+  {
+    "id": 104,
+    "name": "Harsh Right Alert Camera"
+  },
+  {
+    "id": 105,
+    "name": "Harsh Turn Alert Camera"
+  },
+  {
+    "id": 106,
+    "name": "Driver Initiated Alert Camera"
+  },
+  {
+    "id": 107,
+    "name": "Roll Over Alert Camera"
+  },
+  {
+    "id": 108,
+    "name": "Tailgating Alert Camera"
+  },
+  {
+    "id": 109,
+    "name": "Collision Risk Alert Camera"
+  },
+  {
+    "id": 110,
+    "name": "Reckless Driving Alert Camera"
+  },
+  {
+    "id": 111,
+    "name": "Stop Sign Violation Alert Camera"
+  },
+  {
+    "id": 112,
+    "name": "Red Light Violation Alert Camera"
+  },
+  {
+    "id": 113,
+    "name": "Camera Errors Alert"
+  }
+]

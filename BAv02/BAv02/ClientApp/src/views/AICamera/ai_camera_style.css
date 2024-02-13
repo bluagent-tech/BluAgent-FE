@@ -1,0 +1,182 @@
+.ai_camera_div-1 {
+    /* background-color: #EBEBEB; */
+}
+
+.ai_camera_div-2 {
+    /* background-color: #ABBAEA; */
+
+}
+
+.ai_camera_div-3 {
+    /* background-color: #FBD603; */
+    margin-top: 10%;
+}
+
+.ai_camera_div-4 {
+    /* background-color: #fb0303; */
+    padding-right: 15px;
+}
+.no-media-data {
+  display: flex;
+  flex-direction: column;  
+  align-items: center;     
+  justify-content: center; 
+}
+
+.no-media-data img {
+  max-width: 50%;    
+  margin-bottom: 1rem; 
+}
+
+.no-media-data div:first-child {
+  background-repeat: no-repeat;  
+  background-size: cover;       
+  width: 20%;                   
+  height: 100%;                 
+}
+
+/* Asume que el elemento que quieres centrar es un <input type="checkbox"> 
+dentro de un encabezado <th>. Si no es así, debes ajustar los selectores según corresponda. */
+
+/* .rdt_TableHeader .rdt_Checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* Otra opción es utilizar el margen si hay algún problema con flexbox */
+
+/* .rdt_TableHeader .rdt_Checkbox input[type="checkbox"] {
+  margin: auto;
+} */
+
+/** este quita el checkbox */
+.sc-bxivhb.sc-jTzLTM.kEORKf.rdt_TableCol input[type="checkbox"] {
+  display: none !important;
+}
+
+/** este ajusta el check box en el centro */
+/* .sc-bxivhb.sc-jTzLTM.kEORKf.rdt_TableCol {
+  padding-left: 22px;
+} */
+
+
+/* .rdt_TableHeader .rdt_Checkbox input[type="checkbox"] {
+  display: none;
+} */
+
+
+
+.ai_camera_map_button {
+    margin-top: 15px;
+
+}
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 500px 350px;
+    gap: 5px;
+    background-color: #ffffff00;
+    padding: 5px;
+  }
+
+  .map-container {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 700px ;
+    gap: 5px;
+    background-color: #ffffff00;
+    padding: 5px;
+  }
+  
+  .grid-item {
+    background-color: rgba(223, 223, 223, 0.676);
+    text-align: center;
+    padding: auto;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .item1 {
+    grid-column: 1 / span 2;
+    grid-row: 1;
+  }
+  
+  .item2 {
+    grid-column: 1;
+    grid-row: 2;
+  }
+  
+  .item3 {
+    grid-column: 2;
+    grid-row: 2;
+  }
+  
+  .item4 {
+    grid-column: 1 / span 2;
+    grid-row: 3;
+  }
+
+  .no-data-Container{
+    background-color: rgba(223, 223, 223, 0.676);
+    text-align: center;
+    justify-content: center;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .grid-container {
+        grid-template-columns: 100%;
+        grid-template-rows: 400px 400px;
+    }
+  
+    .item1 {
+      grid-column: 1;
+      grid-row: 1;
+    }
+  
+    .item2 {
+      grid-column: 1;
+      grid-row: 2;
+    }
+  
+    .item3 {
+      grid-column: 1;
+      grid-row: 3;
+    }
+  
+    .item4 {
+      grid-column: 1;
+      grid-row: 4;
+    }
+  }
+  
+/*
+Full screen Modal 
+*/
+.fullscreen-modal .modal-dialog {
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1500px;
+  }
+  @media (min-width: 768px) {
+    .fullscreen-modal .modal-dialog {
+      width: 750px;
+    }
+  }
+  @media (min-width: 992px) {
+    .fullscreen-modal .modal-dialog {
+      width: 970px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .fullscreen-modal .modal-dialog {
+       width: 1170px;
+    }
+  }
+

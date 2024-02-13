@@ -1,0 +1,72 @@
+.CardDemo {
+  width: 100%;
+}
+.errorStripeMssg {
+  font-size: 14px;
+  color: #fa755a;
+}
+
+#card-errors {
+  height: 20px;
+  padding: 4px 0;
+  color: #fa755a;
+}
+
+.token {
+  color: #32325d;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 500;
+}
+
+#stripe-token-handler {
+  position: absolute;
+  top: 0;
+  left: 25%;
+  right: 25%;
+  padding: 20px 30px;
+  border-radius: 0 0 4px 4px;
+  box-sizing: border-box;
+  box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1),
+    0 15px 35px rgba(50, 50, 93, 0.15), 0 5px 15px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+  transform: translateY(0);
+  opacity: 1;
+  background-color: white;
+}
+
+#stripe-token-handler.is-hidden {
+  opacity: 0;
+  transform: translateY(-80px);
+}
+
+/**
+   * The CSS shown here will not be introduced in the Quickstart guide, but shows
+   * how you can use CSS to style your Element's container.
+   */
+.StripeElement {
+  display: block;
+  width: 100%;
+  height: calc(2.0625rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #5c6873;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #e4e7ea;
+  border-radius: 0.25rem;
+  box-shadow: none;
+}
+
+/*.StripeElement--focus {
+}*/
+
+.StripeElement--invalid {
+  border-color: #fa755a;
+}
+
+.StripeElement--webkit-autofill {
+  background-color: #fefde5 !important;
+}

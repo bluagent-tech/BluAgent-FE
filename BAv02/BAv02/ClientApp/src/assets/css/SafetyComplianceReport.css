@@ -1,0 +1,229 @@
+.bg-custom {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(248,108,107,1) 0%, rgba(248,108,107,1) 5%, rgba(186,186,186,1) 5%);
+  font-size: small;
+}
+
+.card-width {
+  width: 250px;
+  height: 200px;
+}
+
+.cursor-menu {
+  cursor: pointer;
+}
+.width-template-chart {
+  width: 180px;
+}
+
+.width-template-gauge {
+  width: 160px;
+}
+.card-height {
+  height: 90%;
+}
+
+.icon-card-size {
+  height: 30px;
+  width: 30px;
+}
+
+.margin-chart {
+  margin-top: 50px;
+}
+
+.needle {
+  display: none;
+}
+
+.img-size {
+  width: 150px;
+}
+
+.option-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.effect-card {
+  cursor: pointer;
+  transition: box-shadow 0.5s, width 0.5s, height 0.5s;
+}
+
+.effect-card:hover {
+  -webkit-box-shadow: 13px 10px 22px -10px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 13px 10px 22px -10px rgba(0, 0, 0, 0.59);
+  box-shadow: 13px 10px 22px -10px rgba(0, 0, 0, 0.59);
+
+  transition-timing-function: ease;
+}
+
+.border-color {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom: solid 4px #3b86ff;
+  color: #3b86ff;
+  position: absolute;
+}
+
+.transition-effect {
+  transition: 0.5s;
+}
+
+.custom-alert {
+  width: 100%;
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.red-alert {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+}
+
+.yellow-alert {
+  color: #664d03;
+  background-color: #fff3cd;
+  border-color: #ffecb5;
+}
+
+.green-alert {
+  color: #0f5132;
+  background-color: #d1e7dd;
+  border-color: #badbcc;
+}
+
+.icon-alert {
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 25px;
+  display: flex;
+}
+
+.flex-charts {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.position-quarter {
+  position: absolute;
+  left: 30px;
+  padding-right: 1px;
+}
+.quearter-init-year,
+.quearter-end-year,
+.performed-init-year,
+.performed-end-year {
+  display: none;
+}
+
+
+/*  DOT REPORT CSS*/
+.nav-link.active.show:focus {
+  border-left: white;
+  border-right: white;
+  border-top: white;
+  color: var(--royal-blue);
+  border-bottom: 2.5\px solid #3b86ff;
+  height: 44px;
+}
+
+
+.nav-tabs .nav-link {
+  border-color: #fff;
+  color: #73818f;
+  height: 44px;
+}
+
+.nav-link {
+  border-color: #fff;
+  color: #73818f;
+  height: 44px;
+}
+
+path {
+  pointer-events: all;
+}
+path:hover {
+  opacity: 0.50;
+  cursor: pointer;
+}
+
+.text-group > text {
+  font-weight: bold;
+}
+
+#tables-vehicle-report.table{
+  background-color: white;
+  border-color: white;
+}
+
+.rdt_TableRow {
+  padding: 12px;
+}
+
+.rdt_TableRow:hover {
+  background: #0000000a;
+  box-shadow: 0px 2px 2px 0px #cecece;
+  cursor: pointer;
+  border: none;
+}
+
+.rdt_TableCol {
+  font-size: 16px;
+}
+
+.ReactCollapse--collapse {
+  /*max-width: 800px;*/
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  /*background-color: rgba(100, 255, 100, 0.1);*/
+  transition: height 500ms;
+}
+
+.ReactCollapse--content {
+}
+@media only screen and (max-width: 575px) {
+  .d-none-auto {
+    display: none;
+  }
+  .alert-center {
+    text-align: center;
+  }
+  .quearter-init-year,
+  .quearter-end-year,
+  .performed-init-year,
+  .performed-end-year {
+    position: absolute;
+    left: 15px;
+    padding-right: 1px;
+    display: block;
+  }
+
+  .quearter-init-year {
+    top: 17px;
+  }
+  .quearter-end-year,
+  .performed-init-year {
+    top: 41px;
+  }
+  .performed-end-year {
+    top: 65px;
+  }
+}
+
+.customSizeButton {
+  width: 120px;
+}
+@media only screen and (max-width: 420px) {
+  .flex-charts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

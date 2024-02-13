@@ -1,0 +1,115 @@
+{
+    "safetyCompliance": {
+        "parts": ["177", "380", "382", "383", "385", "387", "390", "391", "392", "393", "395", "396"],
+        "categories": [
+            {
+                "id": 1,
+                "part": "177",
+                "tag": "Part: 177 - Hazardous Materials",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 2,
+                "part": "380",
+                "tag": "Part: 380 - LCV Driver Training",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 3,
+                "part": "382",
+                "tag": "Part: 382 - Drug Testing",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 4,
+                "part": "383",
+                "tag": "Part: 383 - CDL(Commercial Driver License)",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 5,
+                "part": "385",
+                "tag": "Part: 385 - Safety Fitness Procedures",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 6,
+                "part": "387",
+                "tag": "Part: 387 - Insurance",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 7,
+                "part": "390",
+                "tag": "Part: 390 - General",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 8,
+                "part": "391",
+                "tag": "Part: 391 - Driver Qualification File",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 9,
+                "part": "392",
+                "tag": "Part: 392 - Safe Loading",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 10,
+                "part": "393",
+                "tag": "Part: 393 - Part and Accesories",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 11,
+                "part": "395",
+                "tag": "Part: 395 - Hours of Services",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            },
+            {
+                "id": 12,
+                "part": "396",
+                "tag": "Part: 396 - Vehicle Maintenance",
+                "status": "",
+                "color": "",
+                "percentage" : 0,
+                "partArray": []
+            }
+        ]
+    }
+}

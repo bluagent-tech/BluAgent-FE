@@ -1,0 +1,16 @@
+.rdt_TableRow:hover {
+  background: #0000000a;
+  box-shadow: 0px 2px 2px 0px #cecece;
+  cursor: pointer;
+  border: none;
+}
+
+.ljbNpy:nth-child(odd) {
+  background-color: rgba(0,0,0,.1);
+}
+
+.mZylU div:first-child {
+  white-space: normal;
+  overflow: visible;
+  width: 100%;
+}
